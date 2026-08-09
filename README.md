@@ -100,3 +100,7 @@ Le projet met notamment en œuvre :
 🚧 Projet en cours de développement.
 
 **Version actuelle : v0.1 — MVP**
+
+👨‍💻 Auteur
+
+IbnLotfi
